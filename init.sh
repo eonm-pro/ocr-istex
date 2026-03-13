@@ -10,4 +10,4 @@ REQUIREMENTS_FILE=${GIT_REPO}/requirements.txt
 mc cp s3/eonm/istex-search-metadata-small.db ./istex-search-metadata-small.db
 
 # Open the relevant notebook when starting Jupyter Lab
-echo "c.LabApp.default_url = '/lab/tree/${GIT_REPO}/OCR dans Istex.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
+# echo "c.LabApp.default_url = '/lab/tree/${GIT_REPO}/OCR dans Istex.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
